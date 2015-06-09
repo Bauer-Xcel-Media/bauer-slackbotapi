@@ -1,4 +1,4 @@
-bauer-
+bauer-slackbotapi
 ============
 [![GitHub Stars](https://img.shields.io/github/stars/Bauer-Xcel-Media/bauer-slackbotapi.svg?style=flat-square)](https://github.com/Bauer-Xcel-Media/bauer-slackbotapi/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Bauer-Xcel-Media/bauer-slackbotapi.svg?style=flat-square)](https://github.com/Bauer-Xcel-Media/bauer-slackbotapi/issues)
