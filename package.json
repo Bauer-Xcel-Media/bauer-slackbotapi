@@ -1,33 +1,39 @@
 {
-  "name": "slackbotapi",
-  "version": "1.1.0",
-  "description": "a node.js API using Slack their RTM API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xBytez/slackbotapi.git"
-  },
-  "keywords": [
-    "slack",
-    "api",
-    "rtm",
-    "team",
-    "communication",
-    "bot"
-  ],
-  "dependencies": {
-    "ws": "*",
-    "request": "*",
-    "jethro": "*",
-    "eventemitter3": "*"
-  },
-  "author": "xBytez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xBytez/slackbotapi/issues"
-  },
-  "homepage": "https://github.com/xBytez/slackbotapi"
+    "name": "bauer-slackbotapi",
+    "version": "1.1.1",
+    "description": "a node.js API using Slack their API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bauer-Xcel-Media/bauer-slackbotapi.git"
+    },
+    "keywords": [
+        "slack",
+        "api",
+        "rtm",
+        "team",
+        "communication",
+        "bot"
+    ],
+    "dependencies": {
+        "ws": "*",
+        "request": "*",
+        "jethro": "*",
+        "eventemitter3": "*"
+    },
+    "author": "xBytez",
+    "contributors": [
+        {
+            "name": "Julian Wagner",
+            "email": "julian.wagner@bauerxcel.de"
+        }
+    ]
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Bauer-Xcel-Media/bauer-slackbotapi/issues"
+    },
+    "homepage": "https://github.com/Bauer-Xcel-Media/bauer-slackbotapi"
 }

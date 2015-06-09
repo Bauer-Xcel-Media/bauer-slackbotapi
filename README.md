@@ -1,10 +1,17 @@
-SlackbotAPI
+bauer-
 ============
-[![GitHub Stars](https://img.shields.io/github/stars/xBytez/slackbotapi.svg?style=flat-square)](https://github.com/xBytez/slackbotapi/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/xBytez/slackbotapi.svg?style=flat-square)](https://github.com/xBytez/slackbotapi/issues)
-[![Current Version](https://img.shields.io/badge/version-1.1.0-green.svg?style=flat-square)](https://github.com/xBytez/slackbotapi)
+[![GitHub Stars](https://img.shields.io/github/stars/Bauer-Xcel-Media/bauer-slackbotapi.svg?style=flat-square)](https://github.com/Bauer-Xcel-Media/bauer-slackbotapi/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Bauer-Xcel-Media/bauer-slackbotapi.svg?style=flat-square)](https://github.com/Bauer-Xcel-Media/bauer-slackbotapi/issues)
+[![Current Version](https://img.shields.io/badge/version-1.1.1-green.svg?style=flat-square)](https://github.com/Bauer-Xcel-Media/bauer-slackbotapi)
 
-A Node.JS module for Slack's RTM API
+A Node.JS module for Slack's API
+
+---
+
+More documentation to come.
+Just added:
+
+ * basic support for attachments
 
 ---
 
